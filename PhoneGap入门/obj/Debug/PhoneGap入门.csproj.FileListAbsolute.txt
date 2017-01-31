@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\PhoneGap使用\PhoneGap入门\bin\PhoneGap入门.dll
+C:\Users\Administrator\Desktop\PhoneGap使用\PhoneGap入门\bin\PhoneGap入门.pdb
+C:\Users\Administrator\Desktop\PhoneGap使用\PhoneGap入门\obj\Debug\PhoneGap入门.dll
+C:\Users\Administrator\Desktop\PhoneGap使用\PhoneGap入门\obj\Debug\PhoneGap入门.pdb
